@@ -1,3 +1,4 @@
+// Help from Sir Usman git.
 $(function() {
   loadRecipies();
   $("#users").on("click", ".btn-danger", handleDelete);
